@@ -11,3 +11,5 @@
 -removeTransition() function that check if the div dosen't has property name => "transform" then skip this div, if has? remove the class playing from the div.
 
 -Then select all keys and foreach key will add an event Listener ("transitionend") and passing the removeTransition as a callback function.
+
+-You can play the sound on "keydown" or "click" event😂.
